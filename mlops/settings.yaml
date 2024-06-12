@@ -1,5 +1,43 @@
+emr_config: null
+features:
+  override: false
+features_defined:
+  add_new_block_v2: true
+  command_center: true
+  compute_management: false
+  custom_design: true
+  data_integration_in_batch_pipeline: true
+  dbt_v2: true
+  display_local_timezone: true
+  global_hooks: true
+  interactions: true
+  notebook_block_output_split_view: true
+  operation_history: true
+  polars: true
+features_override: {}
+help_improve_mage: true
+latest_version: 0.9.71
+name: homework_03
+openai_api_key: null
+pipelines: null
+platform_settings:
+  projects:
+    homework_o3:
+      path: homework_03
+    unit_0_setup: {}
+    unit_3_observability: {}
+project_uuid: 8ccf2de480d3479084a8f94532ea0256
 projects:
+  homework_03: {}
   unit_0_setup: {}
-  unit_1_data_preparation: {}
-  unit_2_training: {}
   unit_3_observability: {}
+remote_variables_dir: null
+repo_path: /home/src/mlops/homework_03
+root_project: false
+settings:
+  is_project: true
+  is_project_platform: false
+  uuid: homework_03
+spark_config: null
+version: 0.9.71
+workspace_config_defaults: {}
